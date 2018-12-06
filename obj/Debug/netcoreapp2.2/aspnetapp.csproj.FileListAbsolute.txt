@@ -1,0 +1,14 @@
+C:\cursos\ASP .NET\aspnetapp\bin\Debug\netcoreapp2.2\aspnetapp.deps.json
+C:\cursos\ASP .NET\aspnetapp\bin\Debug\netcoreapp2.2\aspnetapp.runtimeconfig.json
+C:\cursos\ASP .NET\aspnetapp\bin\Debug\netcoreapp2.2\aspnetapp.runtimeconfig.dev.json
+C:\cursos\ASP .NET\aspnetapp\bin\Debug\netcoreapp2.2\aspnetapp.dll
+C:\cursos\ASP .NET\aspnetapp\bin\Debug\netcoreapp2.2\aspnetapp.pdb
+C:\cursos\ASP .NET\aspnetapp\obj\Debug\netcoreapp2.2\aspnetapp.csprojAssemblyReference.cache
+C:\cursos\ASP .NET\aspnetapp\obj\Debug\netcoreapp2.2\aspnetapp.csproj.CoreCompileInputs.cache
+C:\cursos\ASP .NET\aspnetapp\obj\Debug\netcoreapp2.2\aspnetapp.RazorAssemblyInfo.cache
+C:\cursos\ASP .NET\aspnetapp\obj\Debug\netcoreapp2.2\aspnetapp.RazorAssemblyInfo.cs
+C:\cursos\ASP .NET\aspnetapp\obj\Debug\netcoreapp2.2\aspnetapp.AssemblyInfoInputs.cache
+C:\cursos\ASP .NET\aspnetapp\obj\Debug\netcoreapp2.2\aspnetapp.AssemblyInfo.cs
+C:\cursos\ASP .NET\aspnetapp\obj\Debug\netcoreapp2.2\aspnetapp.RazorTargetAssemblyInfo.cache
+C:\cursos\ASP .NET\aspnetapp\obj\Debug\netcoreapp2.2\aspnetapp.dll
+C:\cursos\ASP .NET\aspnetapp\obj\Debug\netcoreapp2.2\aspnetapp.pdb
