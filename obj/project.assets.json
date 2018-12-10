@@ -12076,6 +12076,8 @@
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 2.2.0",
+      "Microsoft.EntityFrameworkCore.Tools >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0"
     ]
   },
@@ -12086,11 +12088,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\cursos\\ASP .NET\\aspnetapp\\aspnetapp.csproj",
+      "projectUniqueName": "C:\\cursos\\ASP .NET\\aspnetapp\\aspnetapp.csproj",
       "projectName": "aspnetapp",
-      "projectPath": "c:\\cursos\\ASP .NET\\aspnetapp\\aspnetapp.csproj",
+      "projectPath": "C:\\cursos\\ASP .NET\\aspnetapp\\aspnetapp.csproj",
       "packagesPath": "C:\\Users\\Y025.CMACICA\\.nuget\\packages\\",
-      "outputPath": "c:\\cursos\\ASP .NET\\aspnetapp\\obj\\",
+      "outputPath": "C:\\cursos\\ASP .NET\\aspnetapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12126,6 +12128,16 @@
             "autoReferenced": true
           },
           "Microsoft.AspNetCore.Razor.Design": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[2.2.0, )"
+          },
+          "Microsoft.EntityFrameworkCore.SqlServer": {
+            "target": "Package",
+            "version": "[2.2.0, )"
+          },
+          "Microsoft.EntityFrameworkCore.Tools": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers",
             "suppressParent": "All",
             "target": "Package",
             "version": "[2.2.0, )"
